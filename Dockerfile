@@ -1,1 +1,1 @@
-FROM php:7.2-apache
+FROM openjdk:8-jre-alpine
